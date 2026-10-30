@@ -1,0 +1,17 @@
+../Core/Src/vital_monitor.c:26:13:cs	1
+../Core/Src/vital_monitor.c:27:13:dc	1
+../Core/Src/vital_monitor.c:28:13:tx	1
+../Core/Src/vital_monitor.c:29:13:cmd	1
+../Core/Src/vital_monitor.c:30:13:data	1
+../Core/Src/vital_monitor.c:31:13:reg	2
+../Core/Src/vital_monitor.c:32:13:reset	1
+../Core/Src/vital_monitor.c:33:13:window	1
+../Core/Src/vital_monitor.c:39:13:fill	12
+../Core/Src/vital_monitor.c:50:13:pixel	1
+../Core/Src/vital_monitor.c:51:13:line	9
+../Core/Src/vital_monitor.c:57:13:border	1
+../Core/Src/vital_monitor.c:105:13:letter	5
+../Core/Src/vital_monitor.c:110:13:print	2
+../Core/Src/vital_monitor.c:118:13:heart_icon	4
+../Core/Src/vital_monitor.c:122:6:VitalMonitor_Init	1
+../Core/Src/vital_monitor.c:132:6:VitalMonitor_Draw	4
